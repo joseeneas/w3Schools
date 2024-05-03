@@ -1,4 +1,4 @@
-public class lowestValue {
+public class lowest_value {
     public static void main(String[] args) {
         int[] my_array = {7, 12, 9, 4, 11};
         int minVal = my_array[0];
