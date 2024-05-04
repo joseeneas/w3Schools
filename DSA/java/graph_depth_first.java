@@ -1,4 +1,3 @@
-import java.util.Arrays;
 
 class Graph {
     private int[][] adjMatrix;

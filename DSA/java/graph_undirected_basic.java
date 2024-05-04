@@ -1,4 +1,4 @@
-public class undirected_graph_basic {
+public class graph_undirected_basic {
     public static void main(String[] args) {
 
         String[] vertexData = {"A", "B", "C", "D"};

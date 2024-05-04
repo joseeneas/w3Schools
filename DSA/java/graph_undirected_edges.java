@@ -1,4 +1,4 @@
-public class undirected_graph_edges {
+public class graph_undirected_edges {
     public static void main(String[] args) {
 
         String[] vertexData = {"A", "B", "C", "D"};
